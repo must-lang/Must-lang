@@ -1,33 +1,31 @@
-Must - unforgettable speed in everything.
+Must — unforgettable speed in everything.
 
 
-Must - это компилируемый язык програмирования обшего назначения , его синтаксис полностью индитичен C но с 3  главными отличеями:
+Must is a compiled general-purpose programming language. Its syntax is completely identical to C, but with 3 main differences:
 
 
-1. Все стандартные библиотеки C подключяються автоматически.
+All standard C libraries are included automatically.
 
 
-2. Типы данных выберяються и подставляються автоматически компилятором максимально оптимизированно.
-
- 
-3. Оператор « ; » раставляеться везде автоматически но не убран полностью.
+Data types are inferred and substituted automatically by the compiler for maximum optimization.
 
 
-Компилятор Must это Masika в ней прописан флаг GCC максимальной оптимизации скорости работы программы написаной на Must.
+The ";" operator is automatically placed everywhere, though it has not been completely removed.
 
 
-Проект Must создан для того что бы быстро разработать иструмент с помошью которого можно максимально быстро писать на C , что бы он работал быстрее C , и сам компилятор был быстро разработан.
+The Must compiler is called Masika; it is configured with GCC flags for maximum execution speed of programs written in Must.
 
 
-Must - это быстрота во всём и в разработке проектов на нём и в работе программ написаных на Must.
+The Must project was created to quickly build a tool that allows for writing in C as fast as possible, ensures it runs faster than C, and allows the compiler itself to be developed rapidly.
 
 
-По суте Must это C с добалеными удобными особеностями синтаксиса из Rust и Go.
+Must means speed in everything—both in project development and in the performance of programs written in Must.
 
 
-Расширение файлов у языка програмирования Must это .mu , если у файла другое расширение Masika не скомпилирует этот файл.
+In essence, Must is C with convenient syntax features added from Rust and Go.
 
 
-Если вы хотите писать на Must точные вычясления или переносимое на другие архиктиктуры процессора скомпилированое ПО то измените флаг GCC в начяле файла проекта компилятора Masika а именно в начяле файла gccrun.py ! ! ! 
+The file extension for the Must programming language is .mu; if a file has a different extension, Masika will not compile it.
 
 
+If you want to write programs in Must that require precise calculations or compiled software that is portable to other CPU architectures, change the GCC flag at the beginning of the Masika compiler project file—specifically, at the beginning of the gccrun.py file! ! !
