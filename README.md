@@ -13,7 +13,7 @@ Data types are inferred and substituted automatically by the compiler for maximu
 The ";" operator is automatically placed everywhere, though it has not been completely removed.
 
 
-The Must compiler is called Masika; it is configured with GCC flags for maximum execution speed of programs written in Must.
+The Must compiler is called Masika; it uses GCC flags for maximum execution speed of programs written in Must.
 
 
 The Must project was created to quickly build a tool that allows for writing in C as fast as possible, ensures it runs faster than C, and allows the compiler itself to be developed rapidly.
