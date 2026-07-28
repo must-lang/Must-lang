@@ -4,7 +4,7 @@ Must — unforgettable speed in everything.
 Must is a compiled general-purpose programming language. Its syntax is completely identical to C, but with 3 main differences:
 
 
-All standard C libraries are included automatically.
+All standard C libraries are connected automatically.
 
 
 Data types are inferred and substituted automatically by the compiler for maximum optimization.
